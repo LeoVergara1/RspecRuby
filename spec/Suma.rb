@@ -1,7 +1,5 @@
 class Suma
-  attr_accessor
-    :element1
-    :element2
+  attr_accessor :element1 , :element2
 
   def initialize(element1 ,element2)
     @element1 = element1
